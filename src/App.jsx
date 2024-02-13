@@ -17,8 +17,5 @@ function App() {
     </>
   )
 }
-vjdklvnkjnvcd
-vcdj vnjfrnvrnv
-rfvrinf
 
 export default App
