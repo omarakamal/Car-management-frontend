@@ -13,9 +13,12 @@ function App() {
       <Routes>
         <Route path='/' element={<HomePage></HomePage>}></Route>
       </Routes>
-      <h2>Eduardo</h2>
+      
     </>
   )
 }
+vjdklvnkjnvcd
+vcdj vnjfrnvrnv
+rfvrinf
 
 export default App
