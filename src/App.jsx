@@ -1,13 +1,18 @@
 
 import './App.css'
-import StudentsPage from './pages/StudentsPage'
+
+import {Routes, Route} from 'react-router-dom'
+import HomePage from './pages/HomePage'
+
 
 function App() {
 
   return (
     <>
       
-      <StudentsPage></StudentsPage>
+      <Routes>
+        <Route path='/' element={<HomePage></HomePage>}></Route>
+      </Routes>
     </>
   )
 }
